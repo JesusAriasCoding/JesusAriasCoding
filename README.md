@@ -41,45 +41,46 @@
 
 ## 💼 Experiencia Profesional
 
-### 🚀 Profesional Independiente — *Proyectos Integrales de Desarrollo
+### 🚀 Profesional Independiente — *Proyectos Integrales de Desarrollo*
 **Oct 2024 – Presente** (2 años)
 - **Full-Stack MEAN:** Sistema de gestión para procesamiento de transacciones y exposición de datos operativos
-- **Backend .NET:0** Aplicaciones modulares en C# con patrón MVC y principios SOLID
+- **Backend .NET:** Aplicaciones modulares en C# con patrón MVC y principios SOLID
 - **Infraestructura:** Despliegue de pruebas locales con contenedores Docker
 - **Unity:** Programación de mecánicas físicas bajo marcos formales de gestión de proyectos
 
 ### 🏢 Itrio SA — *Desarrollador*
 **Ago 2018 – Dic 2019** (1 año 5 meses)
 
-### 🏢 Octomind.SA — *12 años en operaciones y análisis
-**Analista de Producción** | Nov 2014 – dig 2017 (3 años 2 meses)
+### 🏢 Octomind.SA — *12 años en operaciones y análisis*
+**Analista de Producción** | Nov 2014 – Dic 2017 (3 años 2 meses)
 - Reportes gerenciales para ejecutivos
 - Mantenimiento y actualización de sistemas ABBYY
-- Disenño de formularios en ABBYY FineReader, edición cartográfica con UNIGIS
+- Diseño de formularios en ABBYY FineReader, edición cartográfica con UNIGIS
 - Presuscripción de contratos telefónicos corporativos
 
 **Asistente de Producción** | Nov 2011 – Nov 2014 (3 años 1 mes)
 - Soporte en migración web Consejo de Southwark (UK)
 - Digitalización formularios Evaluación de Desempeño Gobierno CABA
-**Operador de Production'(* | Jul 2008 – oct 2011 (3 años 4 meses)
-- Gestión clasificación y digitalización multas tráunsito Gobierno CABA
-**Operador Telefonico** | Dic 2005 � 
- jun 2008 (2 años 7 meses)
-- Verificación de datos “� metodos directos y online
 
-### 🎓 Educación
+**Operador de Producción** | Jul 2008 – Oct 2011 (3 años 4 meses)
+- Gestión clasificación y digitalización multas tránsito Gobierno CABA
+
+**Operador Telefónico** | Dic 2005 – Jun 2008 (2 años 7 meses)
+- Verificación de datos métodos directos y online
+
+## 🎓 Educación
 - 🎮 **Licenciatura en Desarrollo y Producción de Videojuegos** — *Universidad de la Ciudad de Buenos Aires* (2025-2026)
-- 💻 **Licenciatura en Tecnologías Digitales** — *Universidad de la Ciudad de Buenos Aires *(2025-2027)
+- 💻 **Licenciatura en Tecnologías Digitales** — *Universidad de la Ciudad de Buenos Aires* (2025-2027)
 - 📊 **Técnico Superior en Análisis de Sistemas** — *Instituto de Formación Técnica Superior N° 16* (2021-2024)
 - 📡 **Ingeniería en Telecomunicaciones** — *Universidad Nacional de San Martín* (2012-2014)
 
-## 📊 GitHub Stats[
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusAriasCoding&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages??username=JesusAriasCoding&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAriasCoding&layout=compact&theme=radical)
 
-## 🚤 Conectemos
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[(ttps://www.linkedin.com/in/jesusgabrielarias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)[(mailto:jesusgabrielarias@gmail.com)
+## 🤝 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusgabrielarias)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusgabrielarias@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jesus-arias.vercel.app)
 
 ---
